@@ -1,0 +1,6 @@
+{
+  "name": "Cérebro Financeiro",
+  "description": "Organizador financeiro pessoal offline-first com controle de ganhos Uber, salário CLT, dívidas, meta diária inteligente e consultor com IA.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
